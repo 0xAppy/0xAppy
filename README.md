@@ -1,1 +1,1 @@
-Name is Appy
+Over time, I've built skills around product design, frontend, backend, and designing whole systems that are simple yet scalable, since I don't like overcomplicating things before I even start. I’m learning to deploy applications cleanly and building my skills in monitoring and observability.
